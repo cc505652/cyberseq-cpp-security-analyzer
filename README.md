@@ -73,7 +73,6 @@ CyberSeq is intentionally designed as a **practical C/C++ subset analyzer rather
 Modern software can be syntactically correct and still contain serious security vulnerabilities.
 
 For example, a program may successfully pass:
-````markdown
 ```text
 Lexical Analysis
        ↓
