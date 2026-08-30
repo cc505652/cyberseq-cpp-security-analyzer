@@ -41,6 +41,7 @@ lextab.py
 output/
 reports/*.pdf
 scratch/
+!screenshots and example report/*.pdf
 
 # --- OS System Files ---
 .DS_Store
