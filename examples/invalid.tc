@@ -1,0 +1,24 @@
+// Tiny C Invalid Sample Program for Error Handling Verification
+
+int main() {
+    // 1. Invalid Identifier (starts with digits)
+    int 123counter = 10;
+
+    // 2. Malformed Numbers
+    float bad_float1 = 10.5.3;
+    float bad_float2 = 10.;
+
+    // 3. Illegal Characters
+    int val = @5 + $10;
+
+    // 4. Invalid Character Literals
+    char empty_ch = '';
+    char multi_ch = 'abc';
+
+    // 5. Unterminated String
+    string err_str = "This string is unclosed;
+
+    return 0;
+}
+
+/* 6. Unterminated Multi-line Comment starting here...

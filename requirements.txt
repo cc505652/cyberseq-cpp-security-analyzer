@@ -1,0 +1,15 @@
+# Core Compiler Pipeline & Parsing Dependencies
+ply>=3.11
+
+# GUI Desktop Application (Modern Dark Theme IDE)
+customtkinter>=6.0.0
+darkdetect>=0.8.0
+
+# PDF Report Generation Engine
+reportlab>=4.0.0
+
+# Environment Configuration Manager
+python-dotenv>=1.0.0
+
+# Automated Testing Framework
+pytest>=8.0.0
