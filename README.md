@@ -1805,8 +1805,6 @@ The PDF generator creates a structured security audit report suitable for demons
 
 # Limitations
 
-CyberSeq is an **educational static-analysis project** and is not intended to replace a production C/C++ compiler or enterprise SAST platform.
-
 Current limitations include:
 
 * Supports a practical C/C++ subset rather than the complete language.
@@ -1982,9 +1980,7 @@ Security Scoring
 PDF Security Report
 ```
 
-The project is intentionally positioned as a **well-engineered college project** demonstrating the integration of compiler design, cybersecurity, and AI.
-
-It is not intended to replace production compilers or enterprise-grade SAST platforms.
+The project is intentionally positioned for demonstrating the integration of compiler design, cybersecurity, and AI.
 
 ---
 
